@@ -1,0 +1,13 @@
+track,heuristic,mean_h_over_hstar,max_h_over_hstar,overestimates,admissible,consistency_violations
+serpentine,h1,0.398,1.0,0,True,0
+serpentine,h2,0.485,1.25,234,False,1502
+serpentine,h3,0.421,1.0,0,True,0
+serpentine,h4,0.993,1.0,0,True,0
+technical,h1,0.434,0.958,0,True,0
+technical,h2,0.517,1.274,74,False,1231
+technical,h3,0.453,0.967,0,True,0
+technical,h4,0.992,1.0,0,True,0
+oval,h1,0.572,0.982,0,True,0
+oval,h2,0.723,1.297,842,False,1029
+oval,h3,0.603,0.982,0,True,0
+oval,h4,0.987,1.0,0,True,0

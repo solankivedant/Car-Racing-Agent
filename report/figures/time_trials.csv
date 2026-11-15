@@ -1,0 +1,22 @@
+track,agent,status,lap_time,avg_speed,top_speed,distance,cpu_ms_per_tick
+serpentine,A* (h1),FINISHED,24.2,182.1,213.1,4407,0.273
+serpentine,A* (h2),FINISHED,24.2,182.0,213.1,4405,0.357
+serpentine,A* (h3),FINISHED,24.2,182.1,213.1,4407,0.248
+serpentine,A* (h4),FINISHED,24.2,182.1,213.1,4407,0.234
+serpentine,Utility,FINISHED,21.43,190.4,260.0,4081,1.382
+serpentine,Reflex,FINISHED,26.67,154.8,238.5,4127,0.172
+serpentine,Learned (GA),FINISHED,23.13,187.4,260.0,4334,0.195
+technical,A* (h1),FINISHED,18.33,191.4,213.1,3509,0.268
+technical,A* (h2),FINISHED,18.3,191.3,213.1,3500,0.531
+technical,A* (h3),FINISHED,18.33,191.4,213.1,3509,0.258
+technical,A* (h4),FINISHED,18.33,191.4,213.1,3509,0.254
+technical,Utility,FINISHED,15.87,214.6,260.0,3405,1.352
+technical,Reflex,FINISHED,19.3,181.4,260.0,3500,0.168
+technical,Learned (GA),FINISHED,17.7,204.7,260.0,3623,0.193
+oval,A* (h1),FINISHED,11.83,198.3,213.1,2347,0.283
+oval,A* (h2),FINISHED,11.87,197.0,213.1,2337,0.272
+oval,A* (h3),FINISHED,11.83,198.3,213.1,2347,0.27
+oval,A* (h4),FINISHED,11.83,198.3,213.1,2347,0.237
+oval,Utility,FINISHED,9.73,236.9,260.0,2305,1.36
+oval,Reflex,FINISHED,10.27,230.4,260.0,2365,0.171
+oval,Learned (GA),FINISHED,10.17,237.3,260.0,2412,0.204

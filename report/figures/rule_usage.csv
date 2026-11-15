@@ -1,0 +1,15 @@
+agent,rule,ticks,share_pct
+Reflex,R8,522,65.2
+Reflex,R11,177,22.1
+Reflex,R10,41,5.1
+Reflex,R9,29,3.6
+Reflex,R3,13,1.6
+Reflex,R7,8,1.0
+Reflex,R4,3,0.4
+Reflex,R1,3,0.4
+Reflex,R5,2,0.2
+Reflex,R6,2,0.2
+A* h4,P1,671,92.4
+A* h4,S1,48,6.6
+A* h4,S3,4,0.6
+A* h4,S2,3,0.4

@@ -1,0 +1,9 @@
+ROWS 2
+COLS 5
+BATTERY 10
+TERRAIN
+..H..
+.....
+CURRENTS
+.....
+.....

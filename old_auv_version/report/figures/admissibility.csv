@@ -1,0 +1,11 @@
+map,heuristic,description,overestimates,admissible,consistency_violations,consistent
+map_main,h1,Manhattan x c_min,0,True,0,True
+map_main,h2,Euclidean x c_min,0,True,0,True
+map_main,h3,Row/Column corridor bound,0,True,0,True
+map_main,h4,ALT landmarks,0,True,0,True
+map_main,h5,"Weighted A* (2 x h3, inadmissible)",984,False,957,False
+track_main,h1,Manhattan x c_min,0,True,0,True
+track_main,h2,Euclidean x c_min,0,True,0,True
+track_main,h3,Row/Column corridor bound,0,True,0,True
+track_main,h4,ALT landmarks,0,True,0,True
+track_main,h5,"Weighted A* (2 x h3, inadmissible)",496,False,312,False

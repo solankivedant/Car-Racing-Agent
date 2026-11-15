@@ -1,0 +1,16 @@
+track,heuristic,description,cost,gap_pct,expanded,generated,max_open,ms,path_cells,free_cells,alt_precompute_ms,expanded_vs_dijkstra
+serpentine,h0,"Dijkstra (h = 0, baseline)",4638.0,0.0,3215,4086,29,32.54,480,3235,0.0,1.0
+serpentine,h1,Euclidean distance,4638.0,0.0,3124,4506,106,32.14,480,3235,0.0,0.972
+serpentine,h2,Manhattan distance,4659.4,0.46,9919,13850,655,117.19,478,3235,0.0,3.085
+serpentine,h3,Octile distance,4638.0,0.0,3094,4532,149,38.83,480,3235,0.0,0.962
+serpentine,h4,ALT landmarks,4638.0,0.0,811,2587,1778,15.88,480,3235,6.9,0.252
+technical,h0,"Dijkstra (h = 0, baseline)",3916.0,0.0,2785,3496,25,37.34,404,2800,0.0,1.0
+technical,h1,Euclidean distance,3916.0,0.0,2745,3814,92,30.95,404,2800,0.0,0.986
+technical,h2,Manhattan distance,3923.0,0.18,16004,20992,728,188.15,403,2800,0.0,5.746
+technical,h3,Octile distance,3916.0,0.0,2743,3861,181,40.07,404,2800,0.0,0.985
+technical,h4,ALT landmarks,3916.0,0.0,804,2426,1624,12.69,404,2800,4.6,0.289
+oval,h0,"Dijkstra (h = 0, baseline)",2536.9,0.0,2495,3327,32,27.14,264,2521,0.0,1.0
+oval,h1,Euclidean distance,2536.9,0.0,2379,3469,135,28.01,264,2521,0.0,0.954
+oval,h2,Manhattan distance,2601.6,2.55,2146,4039,585,26.11,262,2521,0.0,0.86
+oval,h3,Octile distance,2536.9,0.0,2347,3541,261,71.16,264,2521,0.0,0.941
+oval,h4,ALT landmarks,2536.9,0.0,600,1834,1235,10.9,264,2521,4.4,0.24

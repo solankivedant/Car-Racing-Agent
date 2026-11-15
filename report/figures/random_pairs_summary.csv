@@ -1,0 +1,6 @@
+heuristic,description,mean_expanded,median_expanded,mean_ms,optimal_pct,max_gap_pct,vs_dijkstra
+h0,"Dijkstra (h = 0, baseline)",1390.39,1313.0,20.18,100.0,0.0,1.0
+h1,Euclidean distance,952.62,770.0,14.39,100.0,0.0,0.685
+h2,Manhattan distance,3208.52,940.5,50.49,15.28,16.15,2.308
+h3,Octile distance,906.69,722.5,13.67,100.0,0.0,0.652
+h4,ALT landmarks,306.96,198.5,5.61,100.0,0.0,0.221

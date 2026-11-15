@@ -1,0 +1,7 @@
+# Car Racing Agent track, painted with the track editor (python main.py editor)
+NAME Technical Circuit (edited)4444
+MASK technical_circuit_edited_4444.png
+START 150.0 600.0 -95.9
+LAPS 1
+OBSTACLES
+1049 146 10

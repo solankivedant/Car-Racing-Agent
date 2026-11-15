@@ -1,0 +1,7 @@
+heuristic,description,searches,total_expanded,mean_expanded,mean_ms,mean_ebf,optimal_pct,max_gap_pct,expanded_vs_dijkstra
+h0,Zero / Dijkstra (baseline),72,9701,134.736,0.675,1.174,100.0,0.0,1.0
+h1,Manhattan x c_min,72,6480,90.0,0.409,1.104,100.0,0.0,0.668
+h2,Euclidean x c_min,72,7227,100.375,0.511,1.118,100.0,0.0,0.745
+h3,Row/Column corridor bound,72,5887,81.764,0.411,1.098,100.0,0.0,0.607
+h4,ALT landmarks,72,2232,31.0,0.286,1.026,100.0,0.0,0.23
+h5,"Weighted A* (2 x h3, inadmissible)",72,4520,62.778,0.314,1.074,41.667,36.538,0.466

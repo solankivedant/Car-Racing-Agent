@@ -1,0 +1,11 @@
+ROWS 3
+COLS 5
+BATTERY 40
+TERRAIN
+.....
+H...1
+.....
+CURRENTS
+.....
+.>><.
+..^v.
